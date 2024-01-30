@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LSL@@@</string>
+    <string name="this_is_our_start_button">This is our start button</string>
+    <string name="string_this_is_our_start_button">/@string this_is_our_start_button</string>
+    <string name="button">Button</string>
+    <string name="lesotho_sign">Lesotho Sign</string>
+</resources>

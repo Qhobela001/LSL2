@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base Application theme. -->
+    <style name = "Apptheme" parent = "Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize Theme here. -->
+    <item name = "colorPrimaryDark"> @color/colorPrimaryDark </item>
+    </style>
+
+</resources>
